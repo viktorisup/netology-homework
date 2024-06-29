@@ -62,5 +62,6 @@
 5. Добавил файл main.sh 
 6. Сделал мердж dev ветки в основную
 7. Сделал пуш в основную ветку.
+8. [Ссылка на граф. коммит](https://github.com/viktorisup/netology-homework/network)
 
 
