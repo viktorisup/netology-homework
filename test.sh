@@ -1,1 +1,2 @@
 echo $(hostnamectl)
+Второй коммит
